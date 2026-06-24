@@ -1,5 +1,5 @@
 
-# Bricoram Scraper (Python + SeleniumBase + SQLAlchemy)
+# Bricoram Scraper (Python + SeleniumBase + SQLAlchemy DATABASE + EXCEL)
 
 This project scrapes professional profile data from bricoram.com and stores it into a SQLite database (.db) and Excel file (.xlsx). It extracts profiles, reviews, images, and prices in a structured relational format.
 
