@@ -63,13 +63,14 @@ pip install seleniumbase beautifulsoup4 pandas sqlalchemy openpyxl
 
 # PROJECT STRUCTURE
 
+```text
 bricoram-scraper/
 ├── scraper.py
 ├── save/
 │   ├── bricoram.db
-│   ├── bricoram_save.xlsx
+│   └── bricoram_save.xlsx
 └── README.md
-
+```
 ---
 
 # HOW TO RUN
